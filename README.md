@@ -1,6 +1,6 @@
 RSA Factoring Challenge
 
-    By Nderitu
+    By Moise
 
 Background Context
 
